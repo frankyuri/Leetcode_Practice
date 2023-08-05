@@ -1,6 +1,6 @@
 "# Leetcode practice and git practice" 
 
-git add <filename>
+git add filename
 
 git commit -m "test"
 
